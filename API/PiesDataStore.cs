@@ -17,7 +17,6 @@ namespace API
               Id = 1,
               Name = "Pork & Apple Pie",
               PieTypeId = 1,
-              DateCreated = 22042020,
               ShopId = 2
             },
             new PieDto()
@@ -25,7 +24,6 @@ namespace API
               Id = 2,
               Name = "Pork & Apple Pie",
               PieTypeId = 1,
-              DateCreated = 22042020,
               ShopId = 1
             }
           };
